@@ -1,6 +1,7 @@
 
 
-<img width="200" alt="スクリーンショット 2019-12-24 16 02 48" src="https://user-images.githubusercontent.com/11751495/71400140-31f85000-2669-11ea-8647-5a051e9a11fe.png">
+<img width="300" alt="スクリーンショット 2019-12-24 16 32 14" src="https://user-images.githubusercontent.com/11751495/71400843-4f2e1e00-266b-11ea-8705-b0ed909a1f5b.png">
+
 
 # Mi Card
 
