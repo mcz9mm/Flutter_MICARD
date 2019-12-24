@@ -1,4 +1,6 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+
+
+<img width="200" alt="スクリーンショット 2019-12-24 16 02 48" src="https://user-images.githubusercontent.com/11751495/71400140-31f85000-2669-11ea-8647-5a051e9a11fe.png">
 
 # Mi Card
 
